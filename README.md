@@ -22,7 +22,7 @@ The project uses a dataset of labelled emails, consisting of spam and non-spam (
 To get started with the project, follow these steps:
 1.	Clone the repository to your local machine.
 2.	Install the required dependencies using pip install -r requirements.txt.
-3.	Run the Jupyter notebooks to explore the dataset, train the models, and evaluate their performance.
+3.	Run the Google Colab to explore the dataset, train the models, and evaluate their performance.
    
 ## Results
  Logistic Regression Accuracy: 0.96.
